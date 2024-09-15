@@ -16,13 +16,22 @@ Dasboard này?"		"Stakeholder đã làm như thế nào
 Nếu chỉ chọn 1 key Stakeholder thì đó sẽ là ai?		Dùng 1 câu để mô tả vấn đề. 
 ![image](https://github.com/user-attachments/assets/c10b64e1-e205-417c-80e9-230aaeadb00f)
 
-- Bước 2: **Define**Tạo dựng Northstar Metric	bằng cách trả lời các câu hỏi như: 
-  What VALUE you want to measure?			
--- WHEN the value DELIVERY SUCCESS?  	
--- Northstar Metric Name		
--- WHY do you choose this metric?		
+- Bước 2: **Define**
 
-![image](https://github.com/user-attachments/assets/875b2d3d-8e09-41e7-8a0e-1b15eff24ba0)
+Tạo dựng Northstar Metric bằng cách trả lời các câu hỏi như: 
+  - What VALUE you want to measure? (Những giá trị mà bạn muốn đo lường)			
+  - WHEN the value DELIVERY SUCCESS?  (Khi nào giá trị này được thực hiện thành công  )
+  - Northstar Metric Name (Tên của giá trị bạn muốn đo lường)	
+  - WHY do you choose this metric? (Tại sao bạn muốn đo lường trọng số này)	
+														
+![image](https://github.com/user-attachments/assets/df8894e6-c46a-4a35-a84e-4033821bcca4)
 
-- Bước 3:
+
+- Bước 3: **Ideate**
+Stage 3: Ideate - Ý tưởng																
+									
+Start with:	Xuất phát từ NorthStar Metric, brainstorming các nội dung breakdown, các nội dung liên quan trong từng góc nhìn khác nhau của Northstar Metric.					Start with:	Trong 1 page/1 point of view sẽ luôn có 3 nhóm thông tin: Thông tin cực kì quan trọng, thông tin quan trọng và thông tin chi tiết. 																									
+![image](https://github.com/user-attachments/assets/288d7f1c-b6b8-46b1-ab9b-6139a681178d)
+
+Để có thể xem chi tiết hơn, có thể vào đường link dưới đây: 
   
