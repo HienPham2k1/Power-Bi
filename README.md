@@ -39,9 +39,51 @@ Tạo dựng các dashboard dựa trên những ý tưởng đã được lập 
 - Xây dựng mối quan hệ của các cơ sở dữ liệu: [Adventure Works](https://github.com/HienPham2k1/Power-Bi/blob/a68d12b9c82bc41a25f70b28367105287a39b321/AdventureWorks.pbix)
 
 ![image](https://github.com/user-attachments/assets/8b660e36-70fc-4d4f-9c83-7c0fbac2c3e5)
+
+Với trang báo cáo đầu tiên là về **phân tích hành vi khách hàng**. Với ba chỉ số RFM( Recency, Frequency, Monetary) các khách hàng sẽ được xếp vào 11 nhóm khách hàng từ nhiều tiềm năng đến ít tiềm năng nhất 
 ![lamlai (1)_page-0001](https://github.com/user-attachments/assets/ec5316f7-6278-45cd-9d0e-3753c344f357)
+
+Với trang báo cáo thứ hai mình sẽ phân tích về tổng quan khách hàng, doanh nghiệp đã có tổng số khách hàng, tổng số đơn đặt hàng và giá trị trên mỗi order.
 ![lamlai (1)_page-0002](https://github.com/user-attachments/assets/837e0127-3fbf-44cd-81bc-563c0a15e679)
+
+Trang cuối cùng là Top Customer, trang này mình sẽ tìm ra top 5,10,15 khách hàng có giá trị đơn hàng lớn nhất 
 ![lamlai (1)_page-0003](https://github.com/user-attachments/assets/659b0acc-9200-45d8-a5ce-e598d1c813cb)
+
+## Cách thức thực hiện
+- Xây dựng bảng tính **Measure**, tính toán các chỉ số R,F,M
+- Phân loại cho các khách hàng dựa trên số điểm RFM
+- Lựa chọn các chỉ số quan trọng như: total revenue, total order,..., tạo các biểu đồ
+
+## Insight 
+dựa vào đặc điểm của các phân khúc khách hàng thì mình có thể chia các phân khúc trên vào 4 hướng để doanh nghiệp có thể chọn để đi theo								
+1. Với tập khách hàng mà công ty hướng tới sự duy trì thì gồm có *loyal customers và champions*	.							
+
+Đặc điểm chung của tệp này là khách hàng mua sản phẩm gần nhất, số tiền chi trả cao và mua nhiều .								
+
+Suy luận: khách hàng đã nhận biết được giá trị của các sản phẩm, trở thành khách hàng trung thành đối với công ty.								
+Giải pháp để có thể duy trì: tạo những cấp bậc cho tài khoản khách hàng, ví dụ: cấp bậc thành viên, thành viên kim cương, vàng, bạc, đồng,... Với từng bậc khách hàng thì sẽ có các mức ưu đãi khác nhau về số tiền vận chuyển, mua nhiều hàng sẽ được ưu đãi hoặc mua một sản phẩm của công ty sẽ được dùng một sản phẩm khác của công ty hoặc những ưu đãi đổi trả khác.								
+
+2. Với tập khách hàng mà công ty hướng đến sự phát triển thì gồm có *potential loyalist,recent customers,promising*
+
+Đặc điểm chung của tập khách hàng này là có lần mua gần đây, sức mua lớn hoặc trung bình khá nhưng chưa thường xuyên.								
+Suy luận: đây là tệp khách hàng đã sử dụng sản phẩm của công ty, có biết về giá trị của các sản phẩm, tuy nhiên không có nhu cầu sử dụng sản phẩm nhiều hoặc còn đang băn khoăn sử dụng sản phẩm của công ty hoặc của các đối thủ cạnh tranh.
+							
+Nguyên nhân khách hàng không mua thường xuyên: nghiên cứu sâu hơn về tập khách hàng này, về sản phẩm họ mua của công ty , có phải sản phẩm của công ty không đáp ứng được nhu cầu của người tiêu dùng hay những ưu đãi mà công ty dành cho họ không đủ hấp dẫn?								
+
+3. Với tập khách hàng cần được giữ chân đó là *Can't lose them*								
+
+Đặc điểm của tập khách hàng này là đã từng mua thường xuyên và giá trị mua hàng rất lớn	.							
+
+Suy luận: đây là tập khách hàng đã sử dụng sản phẩm của công ty, sau một khoảng thời gian thì họ nhận ra không còn đáp ứng được nhu cầu của họ nữa.								
+Nguyên nhân khách hàng không còn mua nữa: nghiên cứu sâu hơn về sản phẩm mà họ đã từng mua, những sản phẩm này có phải là cùng một sản phẩm, sản phẩm hiện đang cần được cải tiến ở đâu không? 								
+
+4. Với tập khách hàng cần được thu hút: *Customer needing attention, at risk*								
+
+Đặc điểm là những khách hàng khá lâu không quay lại, đã từng mua giá trị hàng ở mức trung binh	.							
+
+Suy luận: đây là tập khách hàng đã bị mất hứng thú sau khi sử dụng sản phẩm 	.							
+
+Nguyên nhân: có nguyên nhân nào khiến cho tập khách hàng này bị mất hứng thú đối với sản phẩm của công ty?								
 
 
 
