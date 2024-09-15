@@ -39,6 +39,12 @@ Tạo dựng các dashboard dựa trên những ý tưởng đã được lập 
 - Xây dựng mối quan hệ của các cơ sở dữ liệu:
 
 ![image](https://github.com/user-attachments/assets/8b660e36-70fc-4d4f-9c83-7c0fbac2c3e5)
+![lamlai (1)_page-0001](https://github.com/user-attachments/assets/ec5316f7-6278-45cd-9d0e-3753c344f357)
+![lamlai (1)_page-0002](https://github.com/user-attachments/assets/837e0127-3fbf-44cd-81bc-563c0a15e679)
+![lamlai (1)_page-0003](https://github.com/user-attachments/assets/659b0acc-9200-45d8-a5ce-e598d1c813cb)
+
+
+
 
 
 
