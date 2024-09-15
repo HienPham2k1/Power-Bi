@@ -27,8 +27,7 @@ Tạo dựng Northstar Metric bằng cách trả lời các câu hỏi như:
 ![image](https://github.com/user-attachments/assets/df8894e6-c46a-4a35-a84e-4033821bcca4)
 
 
-- Bước 3: **Ideate**
-Stage 3: Ideate - Ý tưởng																
+- Bước 3: **Ideate**																
 									
 Start with:	Xuất phát từ NorthStar Metric, brainstorming các nội dung breakdown, các nội dung liên quan trong từng góc nhìn khác nhau của Northstar Metric.					Start with:	Trong 1 page/1 point of view sẽ luôn có 3 nhóm thông tin: Thông tin cực kì quan trọng, thông tin quan trọng và thông tin chi tiết. 																									
 ![image](https://github.com/user-attachments/assets/288d7f1c-b6b8-46b1-ab9b-6139a681178d)
