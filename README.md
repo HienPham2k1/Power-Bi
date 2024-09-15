@@ -32,5 +32,5 @@ Tạo dựng Northstar Metric bằng cách trả lời các câu hỏi như:
 Start with:	Xuất phát từ NorthStar Metric, brainstorming các nội dung breakdown, các nội dung liên quan trong từng góc nhìn khác nhau của Northstar Metric.					Start with:	Trong 1 page/1 point of view sẽ luôn có 3 nhóm thông tin: Thông tin cực kì quan trọng, thông tin quan trọng và thông tin chi tiết. 																									
 ![image](https://github.com/user-attachments/assets/288d7f1c-b6b8-46b1-ab9b-6139a681178d)
 
-Để có thể xem chi tiết hơn, có thể vào đường link dưới đây: 
+Để có thể xem chi tiết hơn, có thể vào đường link dưới đây: [Design Thinking](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FHienPham2k1%2FPower-Bi%2Fmain%2FDesign%2520thinking.xlsx&wdOrigin=BROWSELINK)
   
