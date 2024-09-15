@@ -36,7 +36,7 @@ Start with:	Xuất phát từ NorthStar Metric, brainstorming các nội dung br
 Tạo dựng các dashboard dựa trên những ý tưởng đã được lập phía trên. Sau khi tạo dashboard cần quay lại các bước phía trên để kiểm tra xem còn thiếu hay có thể bổ sung gì không.
 
 ## Dashboard 
-- Xây dựng mối quan hệ của các cơ sở dữ liệu:
+- Xây dựng mối quan hệ của các cơ sở dữ liệu: [Adventure Works](https://github.com/HienPham2k1/Power-Bi/blob/a68d12b9c82bc41a25f70b28367105287a39b321/AdventureWorks.pbix)
 
 ![image](https://github.com/user-attachments/assets/8b660e36-70fc-4d4f-9c83-7c0fbac2c3e5)
 ![lamlai (1)_page-0001](https://github.com/user-attachments/assets/ec5316f7-6278-45cd-9d0e-3753c344f357)
