@@ -85,7 +85,19 @@ Suy luận: đây là tập khách hàng đã bị mất hứng thú sau khi s�
 
 Nguyên nhân: có nguyên nhân nào khiến cho tập khách hàng này bị mất hứng thú đối với sản phẩm của công ty?								
 
-
+| Segment | Characteristics | Recommendation |
+| :-: | :-: | :-: |
+| Champions | Bought recently, buy often and spend the most! | Reward them. Can be early adopters for new products. Will promote your brand. |
+| Loyal | Spend good money with us often. Responsive to promotions. | Upsell higher value products. Ask for reviews. Engage them. |
+| Potential Loyalist | Recent customers, but spent a good amount and bought more than once. | Offer membership / loyalty program, recommend other products. |
+| New customers | Bought most recently, but not often. | Provide on-boarding support, give them early success, start building relationship. |
+| Promising | Recent shoppers, but haven’t spent much. | Create brand awareness, offer free trials |
+| Need attention | Above average recency, frequency and monetary values. May not have bought very recently though. | Make limited time offers, Recommend based on past purchases. Reactivate them. |
+| About to sleep | Below average recency, frequency and monetary values. Will lose them if not reactivated. | Share valuable resources, recommend popular products / renewals at discount, reconnect with them. |
+| At risk | Spent big money and purchased often. But long time ago. Need to bring them back! | Send personalized emails to reconnect, offer renewals, provide helpful resources. |
+| Cannot lose them | Made biggest purchases, and often. But haven’t returned for a long time. | Win them back via renewals or newer products, don’t lose them to competition, talk to them. |
+| Hibernating customers | Last purchase was long back, low spenders and low number of orders. | Offer other relevant products and special discounts. Recreate brand value. |
+| Lost customers | Lowest recency, frequency and monetary scores. | Revive interest with reach out campaign, ignore otherwise. |
 
 
 
